@@ -61,7 +61,7 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`id_usuario`, `email`, `senha`) VALUES
-(1, 'evelynmoraesmesquita@gmail.com', 'fodase'),
+(1, 'evelynmoraesmesquita@gmail.com', 'Teste123'),
 (2, 'teste@teste.com', '$2b$12$3rl/z0EqT6/B2CRFrf5El.arKsqIaYeU0.AzPkvK0cpM1Mzk3WWWO');
 
 --
